@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='ihack',
     version='3.0.7',
-    author='Termux Hackers ID (@iqbalmh18)',
+    author='Termux Hackers ID (@ali.zakavati)',
     author_email='termuxhackers.id@gmail.com',
     description='Python based tools for hacking instagram accounts',
     long_description='InstaHack is a python based tools for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning',
